@@ -8,7 +8,7 @@ namespace EsercizioNatale
         {
             int a = int.MaxValue;
             Console.WriteLine(a);
-            Console.WriteLine (a + 1);
+            Console.WriteLine(a + 1);
             int b = -128;
             int c = -b;
             Console.WriteLine(Convert.ToString(b, 2));
